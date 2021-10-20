@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+.wrap-all {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.r-arrow {
+    margin-top: 8em;
+    margin-left: -2em;
+}
+
+.l-arrow {
+    margin-top: 8em;
+    margin-right: -2.2em;
+}
+
+.l-remove {
+    opacity: 0.4;
+    margin-top: 8em;
+    margin-right: -2.2em;
+}
+
+.r-remove {
+    opacity: 0.4;
+    margin-top: 8em;
+    margin-left: -2em;
+}
+
+.whole-page-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4em;
+}
+

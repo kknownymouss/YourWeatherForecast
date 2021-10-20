@@ -1,0 +1,22 @@
+.form-select.form-select-lg.mb-3 {
+    width: 500px;
+    background-color: #151313;
+    color: white;
+}
+
+.form-wrap {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+}
+
+.btn.btn-primary {
+    font-size: 23px;
+    border: none;
+    margin-top: 1.2px;
+    opacity: 1;
+}
+
+.btn.btn-primary:hover {
+    opacity: 0.8;
+}
